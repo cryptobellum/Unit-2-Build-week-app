@@ -8,7 +8,7 @@ from sklearn.pipeline import make_pipeline
 from sklearn.metrics import accuracy_score
 import pandas as pd
 from joblib import load
-from pages import index, predictions, insights, process
+#from pages import index, predictions, insights, process
 import numpy as np
 
 pipeline = load('assets/pipeline.joblib')
