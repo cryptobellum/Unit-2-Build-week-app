@@ -28,7 +28,7 @@ column1 = dbc.Col(
 
             ✅  W8Lifter is a fitness app that relies on machine learning to identify an individual's potential to be competitive in the sport of Weightlifting.
 
-            ✅ W8Lifter is an intelligent running app that uses XGBoost algorithm to hone in on your next toughest competitor because we believe in ML-driven sports intel.
+            ✅ W8Lifter is an intelligent fitness app that uses XGBoost algorithm to hone in on your next toughest competitor because we believe in ML-driven sports intel.
 
             """
         ),
